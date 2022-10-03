@@ -19,7 +19,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## SQLite tools
 
-* [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator.
+* [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator [with PocketBase tutorial](https://www.youtube.com/watch?v=Zapupe_FREc)
 * [Litestream](https://litestream.io/) - Streaming SQLite replication.
 * [PocketBase+Litestream example](https://github.com/TylerSustare/pocketbase-framework-litestream) - Template showing Litestream running with PocketBase.
 
@@ -28,4 +28,3 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537)
 * Human-readable DB schema [link](https://github.com/pocketbase/pocketbase/discussions/252)
 * Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md)
-* Failure resiliance with PocketBase+Marmot - [link](https://www.youtube.com/watch?v=Zapupe_FREc)
