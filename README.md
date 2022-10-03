@@ -9,7 +9,7 @@ This is a collection of [PocketBase](https://pocketbase.io) resources. Please se
 
 ## Dart/Flutter
 
-* [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - a PocketBase client cached with Drift
+* [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - a PocketBase client cached with Drift.
 * [Dart Generator](https://github.com/rodydavis/pocketbase_dart_generator) - Generate type safe client SDKs for use in local SQLite, JSON or GraphQL resolvers.
 
 ## Serverless
