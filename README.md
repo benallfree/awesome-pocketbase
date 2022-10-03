@@ -1,6 +1,6 @@
 # awesome-pocketbase
 
-This is a collection of [PocketBase](https://pocketbase.io) resources. Please send suggestions in the form of pull requests!
+This is a collection of [PocketBase](https://pocketbase.io) community resources. Please send suggestions in the form of pull requests.
 
 ## Svelte
 
