@@ -28,4 +28,3 @@ This is a collection of [PocketBase](https://pocketbase.io) resources. Please se
 * Human-readable DB schema [link](https://github.com/pocketbase/pocketbase/discussions/252)
 * Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md)
 * Failure resiliance with PocketBase+Marmot - [link](https://www.youtube.com/watch?v=Zapupe_FREc)
-* 
