@@ -20,7 +20,8 @@ This is a collection of [PocketBase](https://pocketbase.io) resources. Please se
 ## SQLite tools
 
 * [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator.
-* [Lightstream](https://litestream.io/) - Streaming SQLite replication.
+* [Litestream](https://litestream.io/) - Streaming SQLite replication.
+* [PocketBase+Litestream example](https://github.com/TylerSustare/pocketbase-framework-litestream) - Template showing Litestream running with PocketBase.
 
 ## Discussions and Tutorials
 
