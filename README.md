@@ -29,7 +29,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Forks
 
-* [Enchanted PocketBase](https://github.com/benallfree/pocketbase) - A PocketBase fork with PBScript built-in and other realtime enhancements (in progress)
+* [Enchanted PocketBase](https://github.com/benallfree/pocketbase) - A PocketBase fork with PBScript built-in and other realtime enhancements
 
 ## Discussions and Tutorials
 
