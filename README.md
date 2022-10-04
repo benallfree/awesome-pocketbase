@@ -4,7 +4,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## React
 
-* ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs) [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the [PocketBase JS SDK](https://github.com/pocketbase/js-sdk).
+* [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the [PocketBase JS SDK](https://github.com/pocketbase/js-sdk).
 
 ## Svelte
 
