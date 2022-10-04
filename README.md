@@ -23,6 +23,10 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [Litestream](https://litestream.io/) - Streaming SQLite replication.
 * [PocketBase+Litestream example](https://github.com/TylerSustare/pocketbase-framework-litestream) - Template showing Litestream running with PocketBase.
 
+## Forks
+
+* [Enchanted PocketBase](https://github.com/benallfree/pocketbase) - A PocketBase fork with PBScript built-in and other realtime enhancements (in progress)
+
 ## Discussions and Tutorials
 
 * Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537)
