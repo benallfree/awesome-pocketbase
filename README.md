@@ -36,3 +36,9 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537)
 * Human-readable DB schema [link](https://github.com/pocketbase/pocketbase/discussions/252)
 * Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md)
+
+## Official Packages
+
+* PocketBase [golang server](https://github.com/pocketbase/pocketbase/releases/) - The main PocketBase server
+* PocketBase [JS/node client](https://github.com/pocketbase/js-sdk) - TS/JS/node client to communicate with the server
+* PocketBase [Dart client](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server
