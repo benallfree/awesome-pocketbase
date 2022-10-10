@@ -26,6 +26,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator [with PocketBase tutorial](https://www.youtube.com/watch?v=Zapupe_FREc)
 * [Litestream](https://litestream.io/) - Streaming SQLite replication.
 * [PocketBase+Litestream example](https://github.com/TylerSustare/pocketbase-framework-litestream) - Template showing Litestream running with PocketBase.
+* [PocketBase with Litestream](https://github.com/bscott/pocketbase-litestream/) - Docker example of PocketBase saving/restoring from Litestream.
 
 ## Forks
 
