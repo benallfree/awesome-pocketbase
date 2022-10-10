@@ -19,7 +19,14 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 ## Serverless
 
 * [PBScript](https://github.com/benallfree/pbscript) - Typescript/Javascript serverless cloud functions for PocketBase.
-* [pockethost.io](https://pockethost.io) - Turnkey BaaS like Firebase/Supabase, up and running in 30 seconds. Supports JS/TS serverless cloud functions.
+
+## Hosting
+
+* [pockethost.io](https://pockethost.io) - Hosted and managed PocketBase with email and SSL support. Up and running in 30 seconds. Supports JS/TS serverless cloud functions.
+* [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases
+* Deploy on Digital Ocean [link](https://github.com/pocketbase/pocketbase/discussions/512)
+* Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537)
+* Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md)
 
 ## SQLite tools
 
@@ -31,13 +38,6 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 ## Forks
 
 * [Enchanted PocketBase](https://github.com/benallfree/pocketbase) - A PocketBase fork with PBScript built-in and other realtime enhancements
-
-## Discussions and Tutorials
-
-* Deploy on Digital Ocean [link](https://github.com/pocketbase/pocketbase/discussions/512)
-* Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537)
-* Human-readable DB schema [link](https://github.com/pocketbase/pocketbase/discussions/252)
-* Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md)
 
 ## Showcases
 
