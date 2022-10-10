@@ -43,6 +43,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 * [Vimsnake](https://github.com/patmood/vim_snake) - A realtime WASM game where Vim commands are used as controller inputs.
 * [ToDo](https://github.com/rajesh6161/pocketbaseTodo) - React-based to-do demo app
+* [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) - a React-based realtime blog demo
 
 ## Official Packages
 
