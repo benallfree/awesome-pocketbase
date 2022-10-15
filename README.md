@@ -23,10 +23,14 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 ## Hosting
 
 * [pockethost.io](https://pockethost.io) - Hosted and managed PocketBase with email and SSL support. Up and running in 30 seconds. Supports JS/TS serverless cloud functions.
-* [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases
-* Deploy on Digital Ocean [link](https://github.com/pocketbase/pocketbase/discussions/512)
-* Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537)
-* Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md)
+* [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases.
+* Deploy on Digital Ocean [link](https://github.com/pocketbase/pocketbase/discussions/512).
+* Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537).
+* Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md).
+
+## Typescript tools
+
+* [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) - Generate Typescript types from the SQLite db file.
 
 ## SQLite tools
 
