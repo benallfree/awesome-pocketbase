@@ -22,7 +22,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Serverless
 
-* [PBScript](https://github.com/benallfree/pbscript) - Typescript/Javascript serverless cloud functions for PocketBase.
+* [Cloud Functions](https://github.com/benallfree/pockethost/packages/js-cloud-funcs) - Typescript/Javascript serverless cloud functions for PocketBase.
 
 ## Hosting
 
