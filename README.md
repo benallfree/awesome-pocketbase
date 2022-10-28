@@ -16,6 +16,10 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - a PocketBase client cached with Drift.
 * [Dart Generator](https://github.com/rodydavis/pocketbase_dart_generator) - Generate type safe client SDKs for use in local SQLite, JSON or GraphQL resolvers.
 
+## Python
+
+* [PocketBase Python SDK](https://github.com/vaphes/pocketbase) -  PocketBase client SDK for Python.
+
 ## Serverless
 
 * [PBScript](https://github.com/benallfree/pbscript) - Typescript/Javascript serverless cloud functions for PocketBase.
