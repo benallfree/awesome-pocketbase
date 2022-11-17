@@ -20,6 +20,10 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 * [PocketBase Python SDK](https://github.com/vaphes/pocketbase) -  PocketBase client SDK for Python.
 
+## .NET C#
+
+* [C# SDK](https://github.com/PRCV1/pocketbase-csharp-sdk) - Community-developed C# SDK (Multiplatform) for interacting with the PocketBase API.
+
 ## Serverless
 
 * [Cloud Functions](https://github.com/benallfree/pockethost/tree/master/packages/js-cloud-funcs) - Typescript/Javascript serverless cloud functions for PocketBase.
