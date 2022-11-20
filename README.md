@@ -18,9 +18,9 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Unnoficial SDKs
 
-* [Go SDK](https://github.com/r--w/pocketbase)
-* [Python SDK](https://github.com/vaphes/pocketbase)
-* [C# SDK](https://github.com/PRCV1/pocketbase-csharp-sdk)
+* [Go](https://github.com/r--w/pocketbase)
+* [Python](https://github.com/vaphes/pocketbase)
+* [C#](https://github.com/PRCV1/pocketbase-csharp-sdk)
 
 ## Serverless
 
