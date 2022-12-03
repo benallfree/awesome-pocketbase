@@ -11,6 +11,10 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [SvelteKit Starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend.
 * [SvelteKit Auth](https://github.com/danawoodman/sveltekit-auth-example) - This project is designed as a sample implementation reference for getting authentication setup using SvelteKit.
 
+## Vue
+
+* [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) and [tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
+
 ## Dart/Flutter
 
 * [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - a PocketBase client cached with Drift.
