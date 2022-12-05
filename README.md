@@ -14,6 +14,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 ## Vue
 
 * [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) and [tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
+* [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter)
 
 ## Dart/Flutter
 
