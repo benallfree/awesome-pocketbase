@@ -21,6 +21,10 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - a PocketBase client cached with Drift.
 * [Dart Generator](https://github.com/rodydavis/pocketbase_dart_generator) - Generate type safe client SDKs for use in local SQLite, JSON or GraphQL resolvers.
 
+## C#
+
+* [ORM and code generator](https://github.com/iluvadev/PocketBaseClient-csharp) - An ORM to manage your PocketBase Application.
+
 ## Unofficial PocketBase Clients (SDKs)
 
 * [Go](https://github.com/r--w/pocketbase)
