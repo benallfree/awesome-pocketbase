@@ -30,6 +30,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [Go](https://github.com/r--w/pocketbase)
 * [Python](https://github.com/vaphes/pocketbase)
 * [C#](https://github.com/PRCV1/pocketbase-csharp-sdk)
+* [Rust](https://github.com/sreedevk/pocketbase-sdk-rust)
 
 ## Serverless
 
