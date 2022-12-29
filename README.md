@@ -25,6 +25,10 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 * [ORM and code generator](https://github.com/iluvadev/PocketBaseClient-csharp) - An ORM to manage your PocketBase Application.
 
+## D
+
+* [libpb](https://github.com/Hax-io/libpb) - PocketBase client wrapper for D with automagic serialization and deserialization to and from JSON
+
 ## Unofficial PocketBase Clients (SDKs)
 
 * [Go](https://github.com/r--w/pocketbase)
