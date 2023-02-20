@@ -37,6 +37,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [Python](https://github.com/vaphes/pocketbase)
 * [C#](https://github.com/PRCV1/pocketbase-csharp-sdk)
 * [Rust](https://github.com/sreedevk/pocketbase-sdk-rust)
+* [PHP](https://github.com/mkay-development/pocketbase-php-sdk)
 
 ## Hosting
 
