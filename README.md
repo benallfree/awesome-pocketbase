@@ -38,10 +38,6 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [C#](https://github.com/PRCV1/pocketbase-csharp-sdk)
 * [Rust](https://github.com/sreedevk/pocketbase-sdk-rust)
 
-## Serverless
-
-* [Cloud Functions](https://github.com/benallfree/pockethost/tree/master/packages/js-cloud-funcs) - Typescript/Javascript serverless cloud functions for PocketBase.
-
 ## Hosting
 
 * [pockethost.io](https://pockethost.io) - Hosted and managed PocketBase with email and SSL support. Up and running in 30 seconds. Supports JS/TS serverless cloud functions.
