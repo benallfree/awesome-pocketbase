@@ -47,6 +47,11 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537).
 * Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md).
 
+## Plugins
+
+* [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Plugin that add Telegram auth (Widget button and WebApp)
+* [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Plugin that allow to expose local PocketBase to the internet with ngrok. Can be useful for development purposes.
+
 ## Typescript tools
 
 * [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) - Generate Typescript types from the SQLite db file.
