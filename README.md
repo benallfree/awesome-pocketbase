@@ -59,6 +59,10 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [PocketBase+Litestream example](https://github.com/TylerSustare/pocketbase-framework-litestream) - Template showing Litestream running with PocketBase.
 * [PocketBase with Litestream](https://github.com/bscott/pocketbase-litestream/) - Docker example of PocketBase saving/restoring from Litestream.
 
+## Other tools
+
+* [PocketBaseUML](https://pocketbase-uml.github.io/) - A free, open-source web application that generates UML diagrams based on PocketBase databases.
+
 ## Forks
 
 * [Enchanted PocketBase](https://github.com/benallfree/pocketbase) - A PocketBase fork with PBScript built-in and other realtime enhancements
