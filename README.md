@@ -51,6 +51,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 * [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Plugin that add Telegram auth (Widget button and WebApp)
 * [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Plugin that allow to expose local PocketBase to the internet with ngrok. Can be useful for development purposes.
+* [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Plugin that allow to proxify requests to the other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port.
 
 ## Typescript tools
 
