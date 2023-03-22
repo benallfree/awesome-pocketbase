@@ -34,6 +34,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 ## Unofficial PocketBase Clients (SDKs)
 
 * [Go](https://github.com/r--w/pocketbase)
+* [Kotlin](https://github.com/OtisGoodman/pocket-kt)
 * [Python](https://github.com/vaphes/pocketbase)
 * [C#](https://github.com/PRCV1/pocketbase-csharp-sdk)
 * [Rust](https://github.com/sreedevk/pocketbase-sdk-rust)
