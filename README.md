@@ -8,6 +8,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Svelte
 
+* [svelte-query-pocketbase](https://github.com/goknsh/svelte-query-pocketbase) - TanStack Query wrappers around PocketBase for Svelte and SvelteKit that updates the query cache in realtime.
 * [SvelteKit Starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend.
 * [SvelteKit Auth](https://github.com/danawoodman/sveltekit-auth-example) - This project is designed as a sample implementation reference for getting authentication setup using SvelteKit.
 * [SvelteKit PocketBase Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - This project demonstrates how to integrate PocketBase with SvelteKit. The project includes login and registration pages, as well as examples of how to retrieve the current user. You can watch a video of the creation of this project on YouTube at [this link](https://youtu.be/AxPB3e-3yEM).
