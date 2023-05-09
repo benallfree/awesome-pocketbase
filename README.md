@@ -48,6 +48,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * Deploy on Digital Ocean [link](https://github.com/pocketbase/pocketbase/discussions/512).
 * Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537).
 * Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md).
+* [pocketbase.dev](https://www.pocketbase.dev?ref=github) - Hosted and managed Pocketbase Hosting with Daily Backups
 
 ## Plugins
 
