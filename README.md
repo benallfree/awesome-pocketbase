@@ -23,7 +23,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 * [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - a PocketBase client cached with Drift.
 * [Dart Generator](https://github.com/rodydavis/pocketbase_dart_generator) - Generate type safe client SDKs for use in local SQLite, JSON or GraphQL resolvers.
-* [Pocketbase Mobile Server](https://github.com/rohitsangwan01/pocketbase_server_flutter) - A mobile app to run pocketbase directly from Android/IOS built in flutter
+* [PocketBase Mobile Server](https://github.com/rohitsangwan01/pocketbase_server_flutter) - A mobile app to run pocketbase directly from Android/IOS built in flutter
 
 ## C#
 
@@ -83,7 +83,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [ToDo](https://github.com/rajesh6161/pocketbaseTodo) - React-based to-do demo app
 * [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) - a React-based realtime blog demo
 * [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) - a React-based oAuth demo
-* [Flutter Chat App](https://github.com/rohitsangwan01/flutter_pocketbase_chat) - A proper chat app using pocketbase in flutter
+* [Flutter Chat App](https://github.com/rohitsangwan01/flutter_pocketbase_chat) - A chat app using pocketbase in flutter
 
 ## Official Packages
 
