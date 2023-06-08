@@ -73,10 +73,6 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [PocketBaseUML](https://pocketbase-uml.github.io/) - A free, open-source web application that generates UML diagrams based on PocketBase databases.
 * [PocketBaseMobile](https://github.com/rohitsangwan01/pocketbase_mobile) - Android and iOS frameworks for running PocketBase from mobile
 
-## Forks
-
-* [Enchanted PocketBase](https://github.com/benallfree/pocketbase) - A PocketBase fork with PBScript built-in and other realtime enhancements
-
 ## Showcases
 
 * [Vimsnake](https://github.com/patmood/vim_snake) - A realtime WASM game where Vim commands are used as controller inputs.
