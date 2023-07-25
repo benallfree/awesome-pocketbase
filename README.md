@@ -60,6 +60,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 * [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) - Generate Typescript types from the SQLite db file.
 * [pocketbase-ts](https://github.com/Solaris9/pocketbase-ts) - A simplified PocketBase SDK to ease the developer experience. Modular API. Strongly typed Schemas.
+* [typed-pocketbase](https://github.com/david-plugge/typed-pocketbase) - Generate types from your Pocketbase instance and enjoy fully type-safe queries.
 
 ## SQLite tools
 
