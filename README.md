@@ -48,7 +48,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases.
 * Deploy on Digital Ocean [link](https://github.com/pocketbase/pocketbase/discussions/512).
 * Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537).
-* Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://github.com/gapmiss/expose-database-server-pocketbase/blob/master/Expose%20database%20server%20(PocketBase).md).
+* Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://localxpose.io/docs/tutorials/expose-pocketbase-backend).
 
 ## Plugins
 
