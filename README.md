@@ -75,6 +75,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 * [PocketBaseUML](https://pocketbase-uml.github.io/) - A free, open-source web application that generates UML diagrams based on PocketBase databases.
 * [PocketBaseMobile](https://github.com/rohitsangwan01/pocketbase_mobile) - Android and iOS frameworks for running PocketBase from mobile
 * [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for stripe subscription integration
+* [pbf](https://github.com/nedpals/pbf) - Library for serializing and deserializing PocketBase filter syntax.
 
 ## Showcases
 
