@@ -37,16 +37,16 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Vue
 
-- [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) - A starter kit built with Vue and Vite 
+- [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) - A starter kit for Vue 3 + Vite + PocketBase.
     - [Tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
 - [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter)
 - [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nux3 Pocketbase starter that builds into a single binary.
 
 ## Dart/Flutter
 
-- [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - a PocketBase client cached with Drift.
+- [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - A PocketBase client cached with Drift.
 - [Dart Generator](https://github.com/rodydavis/pocketbase_dart_generator) - Generate type safe client SDKs for use in local SQLite, JSON or GraphQL resolvers.
-- [Pocketbase Server Flutter](https://github.com/rohitsangwan01/pocketbase_server_flutter) - A Flutter plugin to run PocketBase server directly from Android/iOS
+- [Pocketbase Server Flutter](https://github.com/rohitsangwan01/pocketbase_server_flutter) - A Flutter plugin to run PocketBase server directly from Android/iOS.
 
 ## C#
 
@@ -54,7 +54,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## D
 
-- [libpb](https://github.com/Hax-io/libpb) - PocketBase client wrapper for D with automagic serialization and deserialization to and from JSON
+- [libpb](https://github.com/Hax-io/libpb) - PocketBase client wrapper for D with automagic serialization and deserialization to and from JSON.
 
 ## Unofficial PocketBase Clients (SDKs)
 
@@ -75,7 +75,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Plugins
 
-- [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Plugin that add Telegram auth (Widget button and WebApp)
+- [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Plugin that add Telegram auth (Widget button and WebApp).
 - [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Plugin that allow to expose local PocketBase to the internet with ngrok. Can be useful for development purposes.
 - [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Plugin that allow to proxify requests to the other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port.
 
@@ -96,14 +96,14 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 ## Other tools
 
 - [PocketBaseUML](https://pocketbase-uml.github.io/) - A free, open-source web application that generates UML diagrams based on PocketBase databases.
-- [PocketBaseMobile](https://github.com/rohitsangwan01/pocketbase_mobile) - Android and iOS frameworks for running PocketBase from mobile
-- [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for stripe subscription integration
+- [PocketBaseMobile](https://github.com/rohitsangwan01/pocketbase_mobile) - Android and iOS frameworks for running PocketBase from mobile.
+- [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for Stripe subscription integration.
 - [pbf](https://github.com/nedpals/pbf) - Library for serializing and deserializing PocketBase filter syntax.
 
 ## Showcases
 
 - [Vimsnake](https://github.com/patmood/vim_snake) - A realtime WASM game where Vim commands are used as controller inputs.
-- [ToDo](https://github.com/rajesh6161/pocketbaseTodo) - React-based to-do demo app
-- [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) - a React-based realtime blog demo
-- [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) - a React-based oAuth demo
-- [Flutter Chat App](https://github.com/rohitsangwan01/flutter_pocketbase_chat) - A chat app using PocketBase in Flutter
+- [ToDo](https://github.com/rajesh6161/pocketbaseTodo) - React-based To-Do demo app.
+- [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) - A React-based realtime blog demo.
+- [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) - A React-based oAuth demo.
+- [Flutter Chat App](https://github.com/rohitsangwan01/flutter_pocketbase_chat) - A chat app using PocketBase in Flutter.
