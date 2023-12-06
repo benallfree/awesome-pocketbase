@@ -18,7 +18,6 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 - [SQLite tools](#sqlite-tools)
 - [Other tools](#other-tools)
 - [Showcases](#showcases)
-- [Official Packages](#official-packages)
 
 ## Official Packages
 
