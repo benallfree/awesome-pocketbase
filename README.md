@@ -32,7 +32,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Vue
 
-- [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) and [tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
+- [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) - A starter kit built with Vue and Vite ([tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3))
 - [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter)
 - [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nux3 Pocketbase starter that builds into a single binary.
 
