@@ -4,22 +4,20 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Contents
 
-- [Awesome Pocketbase](#awesome-pocketbase-)
-  - [Contents](#contents)
-  - [React](#react)
-  - [Svelte](#svelte)
-  - [Vue](#vue)
-  - [Dart/Flutter](#dartflutter)
-  - [C#](#c)
-  - [D](#d)
-  - [Unofficial PocketBase Clients (SDKs)](#unofficial-pocketbase-clients-sdks)
-  - [Hosting](#hosting)
-  - [Plugins](#plugins)
-  - [Typescript tools](#typescript-tools)
-  - [SQLite tools](#sqlite-tools)
-  - [Other tools](#other-tools)
-  - [Showcases](#showcases)
-  - [Official Packages](#official-packages)
+- [React](#react)
+- [Svelte](#svelte)
+- [Vue](#vue)
+- [Dart/Flutter](#dartflutter)
+- [C#](#c)
+- [D](#d)
+- [Unofficial PocketBase Clients (SDKs)](#unofficial-pocketbase-clients-sdks)
+- [Hosting](#hosting)
+- [Plugins](#plugins)
+- [Typescript tools](#typescript-tools)
+- [SQLite tools](#sqlite-tools)
+- [Other tools](#other-tools)
+- [Showcases](#showcases)
+- [Official Packages](#official-packages)
 
 ## React
 
