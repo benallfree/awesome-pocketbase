@@ -1,4 +1,4 @@
-# Awesome Pocketbase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome PocketBase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This is a collection of [PocketBase](https://pocketbase.io) community resources. Please send suggestions in the form of pull requests.
 
