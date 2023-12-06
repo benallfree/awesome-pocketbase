@@ -4,6 +4,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Contents
 
+- [Official Packages](#official-packages)
 - [React](#react)
 - [Svelte](#svelte)
 - [Vue](#vue)
@@ -19,9 +20,14 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 - [Showcases](#showcases)
 - [Official Packages](#official-packages)
 
-## React
+## Official Packages
 
-- [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the [PocketBase JS SDK](https://github.com/pocketbase/js-sdk).
+- PocketBase [Golang Server](https://github.com/pocketbase/pocketbase/releases/) - The main PocketBase server
+- PocketBase [JS SDK](https://github.com/pocketbase/js-sdk) - TS/JS/node client to communicate with the server
+- PocketBase [Dart client](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server
+
+## React
+- [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JS SDK.
 
 ## Svelte
 
@@ -32,7 +38,8 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Vue
 
-- [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) - A starter kit built with Vue and Vite ([tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3))
+- [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) - A starter kit built with Vue and Vite 
+    - [Tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
 - [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter)
 - [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nux3 Pocketbase starter that builds into a single binary.
 
@@ -101,9 +108,3 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 - [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) - a React-based realtime blog demo
 - [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) - a React-based oAuth demo
 - [Flutter Chat App](https://github.com/rohitsangwan01/flutter_pocketbase_chat) - A chat app using PocketBase in Flutter
-
-## Official Packages
-
-- PocketBase [golang server](https://github.com/pocketbase/pocketbase/releases/) - The main PocketBase server
-- PocketBase [JS/node client](https://github.com/pocketbase/js-sdk) - TS/JS/node client to communicate with the server
-- PocketBase [Dart client](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server
