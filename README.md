@@ -26,7 +26,9 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 - PocketBase [Dart client](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server
 
 ## React
+
 - [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JS SDK.
+- [PocketBase NextJS App Template](https://github.com/tsensei/nextjs-pocketbase-starter-template) - Pocketbase NextJS Template with server & browser client using cookies.
 
 ## Svelte
 
@@ -38,7 +40,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 ## Vue
 
 - [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) - A starter kit for Vue 3 + Vite + PocketBase.
-    - [Tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
+  - [Tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
 - [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter)
 - [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nux3 Pocketbase starter that builds into a single binary.
 
