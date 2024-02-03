@@ -100,6 +100,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 - [PocketBaseMobile](https://github.com/rohitsangwan01/pocketbase_mobile) - Android and iOS frameworks for running PocketBase from mobile.
 - [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for Stripe subscription integration.
 - [pbf](https://github.com/nedpals/pbf) - Library for serializing and deserializing PocketBase filter syntax.
+- [PocketBase Templates](https://github.com/Pocket-Space/pocketbase-templates) - A open-source collection of pocketbase schemas to quickly get started.
 
 ## Showcases
 
