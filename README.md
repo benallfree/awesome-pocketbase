@@ -14,7 +14,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 - [Unofficial PocketBase Clients (SDKs)](#unofficial-pocketbase-clients-sdks)
 - [Hosting](#hosting)
 - [Plugins](#plugins)
-- [Typescript tools](#typescript-tools)
+- [TypeScript tools](#typescript-tools)
 - [SQLite tools](#sqlite-tools)
 - [Other tools](#other-tools)
 - [Showcases](#showcases)
@@ -22,12 +22,12 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 ## Official Packages
 
 - [Golang Server](https://github.com/pocketbase/pocketbase/releases/) - The main PocketBase server.
-- [JS SDK](https://github.com/pocketbase/js-sdk) - TS/JS/node client to communicate with the server.
-- [Dart SDK](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server.
+- [JavaScript SDK](https://github.com/pocketbase/js-sdk) - Browser and Node.js for interacting with the PocketBase API.
+- [Dart SDK](https://github.com/pocketbase/dart-sdk) - Multi-platform SDK for interacting with the PocketBase Web API.
 
 ## React
 
-- [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JS SDK.
+- [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JavaScript SDK.
 
 ## Svelte
 
@@ -69,22 +69,22 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Hosting
 
-- [pockethost.io](https://pockethost.io) - Hosted and managed PocketBase with email and SSL support. Up and running in 30 seconds. Supports JS/TS serverless cloud functions.
+- [pockethost.io](https://pockethost.io) - Hosted and managed PocketBase with email and SSL support. Up and running in 30 seconds. Supports Javascript and TypeScript serverless cloud functions.
 - [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases.
-- Deploy on Digital Ocean [link](https://github.com/pocketbase/pocketbase/discussions/512).
-- Host free on fly.io [link](https://github.com/pocketbase/pocketbase/discussions/537).
+- [Deploy on DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512).
+- [Host free on Fly.io](https://github.com/pocketbase/pocketbase/discussions/537).
 - Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://localxpose.io/docs/tutorials/expose-pocketbase-backend).
 
 ## Plugins
 
-- [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Plugin that add Telegram auth (Widget button and WebApp).
-- [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Plugin that allow to expose local PocketBase to the internet with ngrok. Can be useful for development purposes.
-- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Plugin that allow to proxify requests to the other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port.
+- [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Add Telegram auth (Widget button and WebApp).
+- [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Allow to expose local PocketBase to the internet with ngrok. Can be useful for development purposes.
+- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Allow to proxify requests to the other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port.
 
-## Typescript tools
+## TypeScript tools
 
-- [pb_hooks starter kit](https://github.com/benallfree/ts-pb-hooks-starter) - Build PocketBase JS hooks using Typescript.
-- [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) - Generate Typescript types from the SQLite db file.
+- [pb_hooks starter kit](https://github.com/benallfree/ts-pb-hooks-starter) - Build PocketBase JavaScript hooks using TypeScript.
+- [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) - Generate TypeScript types from the SQLite db file.
 - [pocketbase-ts](https://github.com/Solaris9/pocketbase-ts) - A simplified PocketBase SDK to ease the developer experience. Modular API. Strongly typed Schemas.
 - [typed-pocketbase](https://github.com/david-plugge/typed-pocketbase) - Generate types from your PocketBase instance and enjoy fully type-safe queries.
 
