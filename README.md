@@ -42,13 +42,13 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 - [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) - A starter kit for Vue 3 + Vite + PocketBase.
   - [Tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
 - [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter)
-- [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nux3 Pocketbase starter that builds into a single binary.
+- [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nux3 PocketBase starter that builds into a single binary.
 
 ## Dart/Flutter
 
 - [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - A PocketBase client cached with Drift.
 - [Dart Generator](https://github.com/rodydavis/pocketbase_dart_generator) - Generate type safe client SDKs for use in local SQLite, JSON or GraphQL resolvers.
-- [Pocketbase Server Flutter](https://github.com/rohitsangwan01/pocketbase_server_flutter) - A Flutter plugin to run PocketBase server directly from Android/iOS.
+- [PocketBase Server Flutter](https://github.com/rohitsangwan01/pocketbase_server_flutter) - A Flutter plugin to run PocketBase server directly from Android/iOS.
 
 ## C#
 
@@ -86,7 +86,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 - [pb_hooks starter kit](https://github.com/benallfree/ts-pb-hooks-starter) - Build PocketBase JS hooks using Typescript.
 - [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) - Generate Typescript types from the SQLite db file.
 - [pocketbase-ts](https://github.com/Solaris9/pocketbase-ts) - A simplified PocketBase SDK to ease the developer experience. Modular API. Strongly typed Schemas.
-- [typed-pocketbase](https://github.com/david-plugge/typed-pocketbase) - Generate types from your Pocketbase instance and enjoy fully type-safe queries.
+- [typed-pocketbase](https://github.com/david-plugge/typed-pocketbase) - Generate types from your PocketBase instance and enjoy fully type-safe queries.
 
 ## SQLite tools
 
