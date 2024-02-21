@@ -1,0 +1,8 @@
+# MD013/line-length
+MD013: false
+# False positive with C# heading
+#README.md:53 MD003/heading-style Heading style [Expected: atx; Actual: atx_closed]
+#README.md:53:4 MD020/no-missing-space-closed-atx No space inside hashes on closed atx style heading [Context: "## C#"]
+MD003: false
+MD020: false
+
