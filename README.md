@@ -26,6 +26,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 - PocketBase [Dart client](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server
 
 ## React
+
 - [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JS SDK.
 
 ## Svelte
