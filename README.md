@@ -21,9 +21,9 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Official Packages
 
-- PocketBase [Golang Server](https://github.com/pocketbase/pocketbase/releases/) - The main PocketBase server.
-- PocketBase [JS SDK](https://github.com/pocketbase/js-sdk) - TS/JS/node client to communicate with the server.
-- PocketBase [Dart client](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server.
+- [Golang Server](https://github.com/pocketbase/pocketbase/releases/) - The main PocketBase server.
+- [JS SDK](https://github.com/pocketbase/js-sdk) - TS/JS/node client to communicate with the server.
+- [Dart SDK](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server.
 
 ## React
 
