@@ -21,9 +21,9 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## Official Packages
 
-- PocketBase [Golang Server](https://github.com/pocketbase/pocketbase/releases/) - The main PocketBase server
-- PocketBase [JS SDK](https://github.com/pocketbase/js-sdk) - TS/JS/node client to communicate with the server
-- PocketBase [Dart client](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server
+- PocketBase [Golang Server](https://github.com/pocketbase/pocketbase/releases/) - The main PocketBase server.
+- PocketBase [JS SDK](https://github.com/pocketbase/js-sdk) - TS/JS/node client to communicate with the server.
+- PocketBase [Dart client](https://github.com/pocketbase/dart-sdk) - Dart client to communicate with the server.
 
 ## React
 
@@ -90,7 +90,7 @@ This is a collection of [PocketBase](https://pocketbase.io) community resources.
 
 ## SQLite tools
 
-- [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator [with PocketBase tutorial](https://www.youtube.com/watch?v=Zapupe_FREc)
+- [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator [with PocketBase tutorial](https://www.youtube.com/watch?v=Zapupe_FREc).
 - [Litestream](https://litestream.io/) - Streaming SQLite replication.
 - [PocketBase+Litestream example](https://github.com/TylerSustare/pocketbase-framework-litestream) - Template showing Litestream running with PocketBase.
 - [PocketBase with Litestream](https://github.com/bscott/pocketbase-litestream/) - Docker example of PocketBase saving/restoring from Litestream.
