@@ -1,6 +1,8 @@
 # Awesome PocketBase [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This is a collection of [PocketBase](https://pocketbase.io) community resources. Please send suggestions in the form of pull requests.
+> Curated list of awesome [PocketBase](https://pocketbase.io) resources.
+
+PocketBase is an open source backend consisting of embedded database (SQLite) with realtime subscriptions, built-in auth management, convenient dashboard UI and simple REST-ish API.
 
 ## Contents
 
