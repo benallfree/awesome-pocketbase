@@ -71,11 +71,11 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Hosting
 
-- [pockethost.io](https://pockethost.io) - Hosted and managed PocketBase with email and SSL support. Up and running in 30 seconds. Supports Javascript and TypeScript serverless cloud functions.
+- [pockethost.io](https://pockethost.io) - Hosted and managed PocketBase with email and SSL support. Up and running in 30 seconds. Supports JavaScript and TypeScript serverless cloud functions.
 - [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases.
-- [Deploy on DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512).
-- [Host free on Fly.io](https://github.com/pocketbase/pocketbase/discussions/537).
-- Use LocalXpose to allow public access to a localhost PocketBase instance [link](https://localxpose.io/docs/tutorials/expose-pocketbase-backend).
+- [DigitalOcean](https://github.com/pocketbase/pocketbase/discussions/512) - Guide to deploy in a Droplet.
+- [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) - Guide to deploy for free in Fly.io.
+- [LocalXpose](https://localxpose.io/docs/tutorials/expose-pocketbase-backend) - Allow public access to a localhost instance.
 
 ## Plugins
 
