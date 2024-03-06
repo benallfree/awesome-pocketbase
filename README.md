@@ -69,7 +69,8 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 - [Go](https://github.com/r--w/pocketbase)
 - [Kotlin](https://github.com/agrevster/pocketbase-kotlin)
-- [Python](https://github.com/vaphes/pocketbase)
+- [Python (Sync)](https://github.com/vaphes/pocketbase)
+- [Python (Async)](https://github.com/thijsmie/pocketbase)
 - [C#](https://github.com/PRCV1/pocketbase-csharp-sdk)
 - [Rust](https://github.com/sreedevk/pocketbase-sdk-rust)
 - [PHP](https://github.com/mkay-development/pocketbase-php-sdk)
