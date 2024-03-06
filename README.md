@@ -13,10 +13,10 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Dart/Flutter](#dartflutter)
 - [C#](#c)
 - [D](#d)
-- [Node.js](#node-js)
+- [Node.js](#nodejs)
 - [Unofficial PocketBase Clients (SDKs)](#unofficial-pocketbase-clients-sdks)
 - [Hosting](#hosting)
-- [Plugins](#plugins)
+- [Native Go Plugins](#native-go-plugins)
 - [TypeScript tools](#typescript-tools)
 - [SQLite tools](#sqlite-tools)
 - [Other tools](#other-tools)
@@ -38,7 +38,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [SvelteKit Starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend.
 - [SvelteKit Auth](https://github.com/danawoodman/sveltekit-auth-example) - This project is designed as a sample implementation reference for getting authentication setup using SvelteKit.
 - [SvelteKit PocketBase Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - This project demonstrates how to integrate PocketBase with SvelteKit. The project includes login and registration pages, as well as examples of how to retrieve the current user. You can watch a video of the creation of this project on YouTube at [this link](https://youtu.be/AxPB3e-3yEM).
-- [pocketbase-sveltekit-static](https://github.com/Egor-S/pocketbase-sveltekit-static) - A minimalistic template with configured authorization featuring a single Docker image (from 55 MB) for deploying.
+- [pocketbase-sveltekit-static](https://github.com/Egor-S/pocketbase-sveltekit-static) - A minimalist template with configured authorization featuring a single Docker image (from 55 MB) for deploying.
 
 ## Vue
 
@@ -59,7 +59,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## D
 
-- [libpb](https://github.com/Hax-io/libpb) - PocketBase client wrapper for D with automagic serialization and deserialization to and from JSON.
+- [libpb](https://github.com/Hax-io/libpb) - PocketBase client wrapper for D with automatic serialization and deserialization to and from JSON.
 
 ## Node.js
 
@@ -84,11 +84,11 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [LocalXpose](https://localxpose.io/docs/tutorials/expose-pocketbase-backend) - Allow public access to a localhost instance.
 - [PocketBase Docker](https://github.com/kdpuvvadi/pocketbase) - Docker images supporting multiple architectures and updated with latest PocketBase releases.
 
-## Plugins
+## Native Go Plugins
 
 - [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Add Telegram auth (Widget button and WebApp).
-- [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Allow to expose local PocketBase to the internet with ngrok. Can be useful for development purposes.
-- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Allow to proxify requests to the other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port.
+- [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Expose local PocketBase to the internet with ngrok.
+- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Proxy requests to another other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port.
 
 ## TypeScript tools
 
