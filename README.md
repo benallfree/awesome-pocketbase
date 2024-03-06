@@ -63,7 +63,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## NodeJS
 
-- [gobot](https://github.com/benallfree/gobot) - CLI and API to install PocketBase as an npm package dependency.
+- [gobot](https://github.com/benallfree/gobot) - PocketBase as an npm package. CLI and API. 
 
 ## Unofficial PocketBase Clients (SDKs)
 
