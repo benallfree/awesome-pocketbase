@@ -13,7 +13,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Dart/Flutter](#dartflutter)
 - [C#](#c)
 - [D](#d)
-- [NodeJS](#nodejs)
+- [Node.js](#node-js)
 - [Unofficial PocketBase Clients (SDKs)](#unofficial-pocketbase-clients-sdks)
 - [Hosting](#hosting)
 - [Plugins](#plugins)
@@ -61,7 +61,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 - [libpb](https://github.com/Hax-io/libpb) - PocketBase client wrapper for D with automagic serialization and deserialization to and from JSON.
 
-## NodeJS
+## Node.js
 
 - [gobot](https://github.com/benallfree/gobot) - PocketBase as an npm package. CLI and API.
 
