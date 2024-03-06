@@ -31,6 +31,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## React
 
 - [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JavaScript SDK.
+- [PocketBase Next.js App Template](https://github.com/tsensei/nextjs-pocketbase-starter-template) - PocketBase Next.js Template with server & browser client using cookies.
 
 ## Svelte
 
