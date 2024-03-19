@@ -46,7 +46,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Vue 3 + Vite starter kit](https://github.com/StefanVDWeide/pocketbase-vue) - A starter kit for Vue 3 + Vite + PocketBase.
   - [Tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
 - [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter)
-- [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nux3 PocketBase starter that builds into a single binary.
+- [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nuxt3 PocketBase starter that builds into a single binary.
 
 ## Dart/Flutter
 
