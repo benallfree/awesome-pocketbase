@@ -114,7 +114,6 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [PocketBase Templates](https://github.com/Pocket-Space/pocketbase-templates) - A open-source collection of PocketBase schemas to quickly get started.
 - [pocketbase-queue](https://github.com/joseferben/pocketbase-queue) - A type-safe queue for background tasks using PocketBase.
 
-
 ## Showcases
 
 - [Vimsnake](https://github.com/patmood/vim_snake) - A realtime WASM game where Vim commands are used as controller inputs.
