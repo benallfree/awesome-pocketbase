@@ -113,6 +113,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [pbf](https://github.com/nedpals/pbf) - Library for serializing and deserializing PocketBase filter syntax.
 - [PocketBase Templates](https://github.com/Pocket-Space/pocketbase-templates) - A open-source collection of PocketBase schemas to quickly get started.
 - [pocketbase-queue](https://github.com/joseferben/pocketbase-queue) - A type-safe queue for background tasks using PocketBase.
+- [PocketBase GPT](https://chat.openai.com/g/g-Owo2FBp4K-pocketbase-gpt) - A GPT that has all of PocketBase's documentation uploaded to it, to give more accurate and up-to-date answers.
 
 ## Showcases
 
