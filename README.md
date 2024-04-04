@@ -104,7 +104,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for Stripe subscription integration.
 - [pbf](https://github.com/nedpals/pbf) - Library for serializing and deserializing PocketBase filter syntax.
 - [PocketBase Templates](https://github.com/Pocket-Space/pocketbase-templates) - A open-source collection of PocketBase schemas to quickly get started.
-
+- [refine-pocketbase](https://github.com/kruschid/refine-pocketbase) - PocketBase providers for [Refine](https://refine.dev/).
 ## Showcases
 
 - [Vimsnake](https://github.com/patmood/vim_snake) - A realtime WASM game where Vim commands are used as controller inputs.
