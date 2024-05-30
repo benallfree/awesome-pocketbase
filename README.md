@@ -122,3 +122,4 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Realtime Blog](https://github.com/rajesh6161/pbRealtimeBlog) - A React-based realtime blog demo.
 - [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) - A React-based oAuth demo.
 - [Flutter Chat App](https://github.com/rohitsangwan01/flutter_pocketbase_chat) - A chat app using PocketBase in Flutter.
+- [JustJot](https://justjot.app) - A keyboard-first note-taking full-featured Progressive Web App. [frontend repo](https://github.com/JunoNgx/justjot-frontend) / [backend repo](https://github.com/JunoNgx/justjot-backend)
