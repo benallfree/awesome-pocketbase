@@ -142,11 +142,11 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 Ports of NPM/Node.js packages to the PocketBase JSVM. _Mirrored from the PocketPorts project for convenience._
 
-| OG Package                                     | Ported Package                                                   | Description                                      |                                                                                        |
-| ---------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------------------- |
-| [Node.js](https://nodejs.org/docs/latest/api/) | [pocketbase-node](https://github/com/benallfree/pocketbase-node) | Node.js core packages (`fs`, `process`, etc)     | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node)   |
-| [ejs](https://github.com/mde/ejs)              | [pocketbase-ejs](http://benallfree/pocketbase-ejs)               | Embedded JavaScript templates - http://ejs.co    | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)    |
-| [marked](https://github.com/markedjs/marked)   | [pocketbase-marked](https://benallfree/pocketbase-marked)        | A markdown parser and compiler. Built for speed. | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-marked) |
+| OG Package                                     | Ported Package                                                   | Description                                      |                                                                                      |
+| ---------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| [Node.js](https://nodejs.org/docs/latest/api/) | [pocketbase-node](https://github/com/benallfree/pocketbase-node) | Node.js core packages (`fs`, `process`, etc)     | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
+| [ejs](https://github.com/mde/ejs)              | [pocketbase-ejs](http://benallfree/pocketbase-ejs)               | Embedded JavaScript templates - http://ejs.co    | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
+| [marked](https://github.com/markedjs/marked)   | ✅ works without changes                                         | A markdown parser and compiler. Built for speed. | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
 
 ## pocodex Plugins
 
