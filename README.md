@@ -39,8 +39,8 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 - [pocketpages.dev](https://pocketpages.dev) - Server-side JS pages and hosting for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
 - [pockethost.io](https://pockethost.io) - Free and pro PocketBase hosting. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pockethost)
-- [PocketPorts](https://github.com/benallfree/pocketports) - NPM/Node.js packages ported to PocketBase JSVM. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketports)
 - [pocodex.dev](https://pocodex.dev) - The unofficial PocketBase plugin repository and code exchange. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocodex)
+- PocketPorts - NPM/Node.js packages ported to PocketBase JSVM. Official listing is hosted here in awesome-pocketbase.
 
 ## React
 
@@ -146,7 +146,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## PocketPorts Packages
 
-Ports of NPM/Node.js packages to the PocketBase JSVM. _Mirrored from the PocketPorts project for convenience._
+Ports of NPM/Node.js packages to the PocketBase JSVM.
 
 | OG Package                                     | Ported Package                                                   | Description                                                    |                                                                                      |
 | ---------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
