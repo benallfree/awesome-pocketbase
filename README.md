@@ -10,6 +10,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [React](#react)
 - [Svelte](#svelte)
 - [Vue](#vue)
+- [Solid](#solid)
 - [Dart/Flutter](#dartflutter)
 - [C#](#c)
 - [D](#d)
@@ -47,6 +48,10 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
   - [Tutorial](https://studioterabyte.nl/en/blog/pocketbase-vue-3)
 - [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter)
 - [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nuxt3 PocketBase starter that builds into a single binary.
+
+## Solid
+
+- [Solid-pocketbase-hooks](https://github.com/kirill-dev-pro/solid-pocketbase-hooks) - Pocketbase hooks for Solid.js
 
 ## Dart/Flutter
 
