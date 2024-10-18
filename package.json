@@ -1,0 +1,11 @@
+{
+  "name": "awesome-pocketbase",
+  "version": "1.0.0",
+  "scripts": {
+    "lint": "awesome-lint README.md && markdownlint-cli2 README.md && lychee -vv README.md"
+  },
+  "devDependencies": {
+    "awesome-lint": "^1.2.0",
+    "markdownlint-cli2": "^0.14.0"
+  }
+}
