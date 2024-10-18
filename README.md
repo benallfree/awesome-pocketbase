@@ -13,6 +13,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [React](#react)
 - [Svelte](#svelte)
 - [Vue](#vue)
+- [Solid](#solid)
 - [Dart/Flutter](#dartflutter)
 - [C#](#c)
 - [D](#d)
@@ -61,6 +62,10 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Quasar starter kit](https://github.com/aaronblondeau/pocketbase_quasar_starter) - Pocketbase with Quasar. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronblondeau/pocketbase_quasar_starter)
 - [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nuxt3 PocketBase starter that builds into a single binary. ![GitHub Repo stars](https://img.shields.io/github/stars/j-wil/pocket-nuxt)
 
+## Solid
+
+- [Solid-pocketbase-hooks](https://github.com/kirill-dev-pro/solid-pocketbase-hooks) - Pocketbase hooks for Solid.js
+
 ## Dart/Flutter
 
 - [PocketBase Drift](https://github.com/rodydavis/pocketbase_drift) - A PocketBase client cached with Drift. ![GitHub Repo stars](https://img.shields.io/github/stars/rodydavis/pocketbase_drift)
@@ -96,6 +101,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Fly.io](https://github.com/pocketbase/pocketbase/discussions/537) - Guide to deploy for free in Fly.io.
 - [LocalXpose](https://localxpose.io/docs/tutorials/expose-pocketbase-backend) - Allow public access to a localhost instance.
 - [PocketBase Docker](https://github.com/kdpuvvadi/pocketbase) - Docker images supporting multiple architectures and updated with latest PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/kdpuvvadi/pocketbase)
+- [PocketBase on Dokku](https://github.com/blockshiftnetwork/dokku-pocketbase) - Deploy PocketBase instances on Dokku effortlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase)
 
 ## Native Go Plugins
 
