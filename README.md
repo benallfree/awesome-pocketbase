@@ -11,6 +11,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Official Packages](#official-packages)
 - [Major Community Projects](#major-community-projects)
 - [JSVM Plugins](#jsvm-plugins)
+- [Go Plugins](#go-plugins)
 - [React](#react)
 - [Svelte](#svelte)
 - [Vue](#vue)
@@ -21,7 +22,6 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Node.js](#nodejs)
 - [Unofficial PocketBase Clients (SDKs)](#unofficial-pocketbase-clients-sdks)
 - [Self Hosting](#self-hosting)
-- [Native Go Plugins](#native-go-plugins)
 - [TypeScript tools](#typescript-tools)
 - [SQLite tools](#sqlite-tools)
 - [Other tools](#other-tools)
@@ -55,11 +55,16 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## JSVM Plugins
 
-| Name        | Description          | Pocodex Installation Command                                           |                                                                                     |
-| ----------- | -------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| OTP         | One-Time Passwords   |  [pocketbase-otp](https://github.com/benallfree/pocketbase-otp)  | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp) |
-| PocketPages | Server-side JS pages | [pocketpages](https://github.com/benallfree/pocketpages)       | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)    |
-| Presigned URLs | Serve file uploads from presigned S3 URLs | [pocketbase-presigned-urls](https://github.com/benallfree/pocketbase-presigned-urls) |  ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls) |
+* [pocketbase-otp](https://github.com/benallfree/pocketbase-otp) - One-Time Passwords for <=v0.22.* ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp)
+* [pocketpages](https://github.com/benallfree/pocketpages) - Server-side EJS pages for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
+* [pocketbase-presigned-urls](https://github.com/benallfree/pocketbase-presigned-urls) - Serve file uploads from presigned S3 URLs. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls)
+
+## Go Plugins
+
+- [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Add Telegram auth (Widget button and WebApp). ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-telegram-auth)
+- [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Expose local PocketBase to the internet with ngrok. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-ngrok)
+- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Proxy requests to another other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-proxy)
+- [Webhooks](https://gist.github.com/cugu/9e74f75dcad3df74370c71ff3c02085a) - Add webhook support in the admin UI to send `create`, `update` and `delete` events on selected collections via POST request to other systems.
 
 ## React
 
@@ -122,13 +127,6 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [LocalXpose](https://localxpose.io/docs/tutorials/expose-pocketbase-backend) - Allow public access to a localhost instance.
 - [PocketBase Docker](https://github.com/kdpuvvadi/pocketbase) - Docker images supporting multiple architectures and updated with latest PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/kdpuvvadi/pocketbase)
 - [PocketBase on Dokku](https://github.com/blockshiftnetwork/dokku-pocketbase) - Deploy PocketBase instances on Dokku effortlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase)
-
-## Native Go Plugins
-
-- [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Add Telegram auth (Widget button and WebApp). ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-telegram-auth)
-- [Ngrok](https://github.com/iamelevich/pocketbase-plugin-ngrok) - Expose local PocketBase to the internet with ngrok. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-ngrok)
-- [Proxy](https://github.com/iamelevich/pocketbase-plugin-proxy) - Proxy requests to another other host. Can be useful when you want to use separate server as frontend (like Next.js), but serve everything with same port. ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-proxy)
-- [Webhooks](https://gist.github.com/cugu/9e74f75dcad3df74370c71ff3c02085a) - Add webhook support in the admin UI to send `create`, `update` and `delete` events on selected collections via POST request to other systems.
 
 ## TypeScript tools
 
