@@ -44,9 +44,9 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## JSVM Plugins
 
-| Name        | Description          | Installation Command                                           |                                                                                     |
+| Name        | Description          | Pocodex Installation Command                                           |                                                                                     |
 | ----------- | -------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| OTP         | One-Time Passwords   | [pocketbase-otp](https://github.com/benallfree/pocketbase-otp) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp) |
+| OTP         | One-Time Passwords   |  | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp) |
 | PocketPages | Server-side JS pages | [pocketpages](https://github.com/benallfree/pocketpages)       | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)    |
 | Presigned URLs | Serve file uploads from presigned S3 URLs | [pocketbase-presigned-urls](https://github.com/benallfree/pocketbase-presigned-urls) |  ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls) |
 
