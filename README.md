@@ -10,6 +10,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 - [Official Packages](#official-packages)
 - [Major Community Projects](#major-community-projects)
+- [JSVM Plugins](#jsvm-plugins)
 - [React](#react)
 - [Svelte](#svelte)
 - [Vue](#vue)
@@ -26,7 +27,6 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Other tools](#other-tools)
 - [Showcases](#showcases)
 - [PocketPorts Packages](#pocketports-packages)
-- [pocodex Plugins](#pocodex-plugins)
 
 ## Official Packages
 
@@ -41,6 +41,14 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [pockethost.io](https://pockethost.io) - Free and pro PocketBase hosting. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pockethost)
 - [pocodex.dev](https://pocodex.dev) - The unofficial PocketBase plugin repository and code exchange. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocodex)
 - PocketPorts - NPM/Node.js packages ported to PocketBase JSVM. Official listing is hosted here in awesome-pocketbase.
+
+## JSVM Plugins
+
+| Name        | Description          | Installation Command                                           |                                                                                     |
+| ----------- | -------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| OTP         | One-Time Passwords   | [pocketbase-otp](https://github.com/benallfree/pocketbase-otp) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp) |
+| PocketPages | Server-side JS pages | [pocketpages](https://github.com/benallfree/pocketpages)       | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)    |
+| Presigned URLs | Serve file uploads from presigned S3 URLs | [pocketbase-presigned-urls](https://github.com/benallfree/pocketbase-presigned-urls) |  ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls) |
 
 ## React
 
@@ -155,11 +163,3 @@ Ports of NPM/Node.js packages to the PocketBase JSVM.
 | [ejs](https://github.com/mde/ejs)              | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs)   | Embedded JavaScript templates - [http://ejs.co](http://ejs.co) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
 | [marked](https://github.com/markedjs/marked)   | ✅ works without changes                                         | A markdown parser and compiler. Built for speed.               | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
 
-## pocodex Plugins
-
-JS plugin ecosystem at pocodex.dev. _Mirrored from the pocodex project for convenience._
-
-| Name        | Description          | Installation Command                                           |                                                                                     |
-| ----------- | -------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| OTP         | One-Time Passwords   | [pocketbase-otp](https://github.com/benallfree/pocketbase-otp) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp) |
-| PocketPages | Server-side JS pages | [pocketpages](https://github.com/benallfree/pocketpages)       | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)    |
