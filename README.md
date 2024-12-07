@@ -9,6 +9,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## Contents
 
 - [Official Packages](#official-packages)
+- [Top PocketBase-specific Projects (>100 stars)](top-pocketbase-specific-projects---100-stars-)
 - [Major Community Projects](#major-community-projects)
 - [JSVM Plugins](#jsvm-plugins)
 - [Go Plugins](#go-plugins)
@@ -172,4 +173,3 @@ Ports of NPM/Node.js packages to the PocketBase JSVM.
 | [Node.js](https://nodejs.org/docs/latest/api/) | [pocketbase-node](https://github.com/benallfree/pocketbase-node) | Node.js core packages (`fs`, `process`, etc)                   | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
 | [ejs](https://github.com/mde/ejs)              | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs)   | Embedded JavaScript templates - [http://ejs.co](http://ejs.co) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
 | [marked](https://github.com/markedjs/marked)   | ✅ works without changes                                         | A markdown parser and compiler. Built for speed.               | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
-
