@@ -9,7 +9,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## Contents
 
 - [Official Packages](#official-packages)
-- [Top PocketBase-specific Projects (>100 stars)](top-pocketbase-specific-projects---100-stars-)
+- [Top PocketBase-specific Projects (>100 stars)](top-pocketbase-specific-projects-100-stars)
 - [Major Community Projects](#major-community-projects)
 - [JSVM Plugins](#jsvm-plugins)
 - [Go Plugins](#go-plugins)
