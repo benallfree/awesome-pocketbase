@@ -172,6 +172,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [JustJot](https://justjot.app) - A keyboard-first note-taking full-featured Progressive Web App. [frontend repo](https://github.com/JunoNgx/justjot-frontend) / [backend repo](https://github.com/JunoNgx/justjot-backend) ![GitHub Repo stars](https://img.shields.io/github/stars/JunoNgx/justjot-backend)
 - [Cookie auth demo](https://github.com/davidbarton/pocketbase-cookie-auth-demo) - A demo of cookie based authentication flow for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/davidbarton/pocketbase-cookie-auth-demo)
 - [Adnexos](https://github.com/tametsi/adnexos) - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
+- [pocketbase-libsql](https://github.com/cobeo2004/pocketbase-libsql) - Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept ![GitHub Repo stars](https://img.shields.io/github/stars/cobeo2004/pocketbase-libsql)
 
 ## PocketPorts Packages
 
