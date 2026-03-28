@@ -68,6 +68,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Typescript Generator](https://github.com/Vogeslu/pocketbase-ts-generator) - Typescript generator standalone / library with auto generation hook or command ![GitHub Repo stars](https://img.shields.io/github/stars/Vogeslu/pocketbase-ts-generator)
 - [pocketbase-gogen](https://github.com/Snonky/pocketbase-gogen) - Generate data model structs from a PocketBase schema. ![GitHub Repo stars](https://img.shields.io/github/stars/Snonky/pocketbase-gogen)
 - [pb-ext](https://github.com/magooney-loon/pb-ext) - Enhanced PocketBase server with monitoring, logging & API docs. ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-ext)
+- [ReleaseRun Go Module Health](https://releaserun.com/tools/gomod-health/) - Browser-based go.mod dependency health checker. Scans Go module dependencies for EOL versions and known CVEs — no install needed.
 
 
 ## React
