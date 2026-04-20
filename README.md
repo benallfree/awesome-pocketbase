@@ -176,6 +176,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Cookie auth demo](https://github.com/davidbarton/pocketbase-cookie-auth-demo) - A demo of cookie based authentication flow for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/davidbarton/pocketbase-cookie-auth-demo)
 - [Adnexos](https://github.com/tametsi/adnexos) - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
 - [pocketbase-libsql](https://github.com/cobeo2004/pocketbase-libsql) - Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept ![GitHub Repo stars](https://img.shields.io/github/stars/cobeo2004/pocketbase-libsql)
+- [PocketChat](https://github.com/PocketTogether/pocket-chat) - A real-time chat platform built with PocketBase and Vue3, supporting OAuth, notifications, PWA, file/image sharing, permissions, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/PocketTogether/pocket-chat)
 
 ## PocketPorts Packages
 
