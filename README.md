@@ -164,6 +164,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [PocketBase GPT](https://chat.openai.com/g/g-Owo2FBp4K-pocketbase-gpt) - A GPT that has all of PocketBase's documentation uploaded to it, to give more accurate and up-to-date answers.
 - [PocketBase API Rule Builder](https://pocketbase-api-rule-builder.vercel.app) - A free, open-source web application that makes it easy to generate API rules for PocketBase collections visually. ![GitHub Repo stars](https://img.shields.io/github/stars/kerimovok/pocketbase-api-rule-builder)
 - [pb-llm](https://github.com/magooney-loon/pb-llm) - Pocketbase LLM docs scraper ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-llm)
+- [pocketbase-security-skill](https://github.com/Perufitlife/pocketbase-security-skill) - Open-source MIT auditor that probes anonymously to confirm permissive default-rule wildcards, anonymous record listing exposure, and admin-API misconfigurations. Outputs an HTML report with copy-paste fix snippets. ![GitHub Repo stars](https://img.shields.io/github/stars/Perufitlife/pocketbase-security-skill)
 
 ## Showcases
 
