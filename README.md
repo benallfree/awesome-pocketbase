@@ -9,6 +9,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 ## Contents
 
 - [Official Packages](#official-packages)
+- [Forks](#forks)
 - [Top PocketBase-specific Projects (\>100 stars)](#top-pocketbase-specific-projects-100-stars)
 - [Major Community Projects](#major-community-projects)
 - [JSVM Plugins](#jsvm-plugins)
@@ -27,7 +28,6 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [SQLite tools](#sqlite-tools)
 - [Other tools](#other-tools)
 - [Showcases](#showcases)
-- [PocketPorts Packages](#pocketports-packages)
 
 ## Official Packages
 
@@ -35,6 +35,10 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 - [JavaScript SDK](https://github.com/pocketbase/js-sdk) - Browser and Node.js for interacting with the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/js-sdk)
 - [Dart SDK](https://github.com/pocketbase/dart-sdk) - Multi-platform SDK for interacting with the PocketBase Web API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/dart-sdk)
+
+## Forks
+
+- [PocketOne](https://pocketone.dev) - An open, community-driven fork of PocketBase. Features live in Go extensions that connect only through versioned contracts, so anyone can contribute (PITR, bulk mail, WASM, an updated JSVM, and more) without touching core. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pocketone)
 
 ## Top PocketBase-specific Projects (>100 stars)
 
@@ -49,9 +53,8 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Major Community Projects
 
-- [PocketOne](https://pocketone.dev) - PocketBase plus extensions: a fork that adds hooks to core so features ship as Go extensions. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pocketone)
 - [pocketpages.dev](https://pocketpages.dev) - Server-side JS pages and hosting for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
-- PocketPorts - NPM/Node.js packages ported to PocketBase JSVM. Official listing is hosted here in awesome-pocketbase.
+- [PocketCon 2027](https://pocketcon.dev) - A free online PocketBase conference on Saturday, February 6, 2027.
 
 ## JSVM Plugins
 
@@ -183,13 +186,3 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [TinyCld](https://github.com/tinycld) - A full featured workspace with mail/calendar/drive/text/calc package, uses Pocketbase with React Native for realtime db and file storage.  Extends Pocketbase server with golang services for imap/smtp/caldav/webdav.
 - [Facet](https://github.com/jesposito/Facet) - Self-hostable personal profile and portfolio platform built on PocketBase and Svelte, and the open-source core of the [Facet Cloud](https://get-facet.com) creator platform. ![GitHub Repo stars](https://img.shields.io/github/stars/jesposito/Facet)
 - [Chirkle](https://github.com/border-radius/chirkle) - Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients. ![GitHub Repo stars](https://img.shields.io/github/stars/border-radius/chirkle)
-
-## PocketPorts Packages
-
-Ports of NPM/Node.js packages to the PocketBase JSVM.
-
-| OG Package                                     | Ported Package                                                   | Description                                                    |                                                                                      |
-| ---------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [Node.js](https://nodejs.org/docs/latest/api/) | [pocketbase-node](https://github.com/benallfree/pocketbase-node) | Node.js core packages (`fs`, `process`, etc)                   | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-node) |
-| [ejs](https://github.com/mde/ejs)              | [pocketbase-ejs](https://github.com/benallfree/pocketbase-ejs)   | Embedded JavaScript templates - [http://ejs.co](http://ejs.co) | ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-ejs)  |
-| [marked](https://github.com/markedjs/marked)   | works without changes                                            | A markdown parser and compiler. Built for speed.               | ![GitHub Repo stars](https://img.shields.io/github/stars/markedjs/marked)            |
