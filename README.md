@@ -49,6 +49,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Major Community Projects
 
+- [PocketOne](https://pocketone.dev) - PocketBase plus extensions: a fork that adds hooks to core so features ship as Go extensions. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pocketone)
 - [pocketpages.dev](https://pocketpages.dev) - Server-side JS pages and hosting for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
 - PocketPorts - NPM/Node.js packages ported to PocketBase JSVM. Official listing is hosted here in awesome-pocketbase.
 
