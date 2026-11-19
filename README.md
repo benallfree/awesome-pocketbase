@@ -38,7 +38,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Forks
 
-- [PocketOne](https://pocketone.dev) - An open, community-driven fork of PocketBase. Features live in Go extensions that connect only through versioned contracts, so anyone can contribute (PITR, bulk mail, WASM, an updated JSVM, and more) without touching core. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pocketone)
+- [PocketOne](https://pocketone.dev) - An open, community-driven fork of PocketBase. Features live in Go extensions that connect only through versioned contracts, so anyone can contribute (PITR, bulk mail, WASM, an updated JSVM, and more) without touching core. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketonehq/pocketone)
 
 ## Top PocketBase-specific Projects (>100 stars)
 
