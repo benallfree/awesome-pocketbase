@@ -59,13 +59,12 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Major Community Projects
 
-- [PocketPages](https://pocketone.dev/docs/extensions/pages) - Server-side JS pages for PocketBase. v1 is built into PocketOne; the npm-based 0.x is archived. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
+- [PocketPages](https://pocketone.dev/docs/extensions/pages) - Server-side JS pages for PocketBase, built into PocketOne.
 - [PocketCon 2027](https://pocketcon.dev) - A free online PocketBase conference on Saturday, February 6, 2027.
 
 ## JSVM Plugins
 
 - [pocketbase-otp](https://github.com/benallfree/pocketbase-otp) - One-Time Passwords for <=v0.22.\* ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp)
-- [pocketpages](https://github.com/benallfree/pocketpages) - Server-side EJS pages for PocketBase (0.x, archived; v1 is built into PocketOne). ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
 - [pocketbase-presigned-urls](https://github.com/benallfree/pocketbase-presigned-urls) - Serve file uploads from presigned S3 URLs. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls)
 
 ## Go Plugins
@@ -88,7 +87,6 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Svelte
 
-- [svelte-query-pocketbase](https://github.com/goknsh/svelte-query-pocketbase) - TanStack Query wrappers around PocketBase for Svelte and SvelteKit that updates the query cache in realtime (archived). ![GitHub Repo stars](https://img.shields.io/github/stars/goknsh/svelte-query-pocketbase)
 - [pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - A starter-kit showing how to use customized (Go/JS) PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
 - [pocketbase-sveltekit-static](https://github.com/Egor-S/pocketbase-sveltekit-static) - A minimalist template with configured authorization featuring a single Docker image (from 55 MB) for deploying. ![GitHub Repo stars](https://img.shields.io/github/stars/Egor-S/pocketbase-sveltekit-static)
 
@@ -129,7 +127,6 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [Kotlin (Multiplatform)](https://github.com/IdanAizikNissim/pocketbase-kt) - PocketBase Client in Kotlin. ![GitHub Repo stars](https://img.shields.io/github/stars/IdanAizikNissim/pocketbase-kt)
 - [Python (Sync)](https://github.com/vaphes/pocketbase) - PocketBase Client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/vaphes/pocketbase)
 - [Python (Async)](https://github.com/thijsmie/pocketbase) - PocketBase Client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/thijsmie/pocketbase)
-- [C#](https://github.com/PRCV1/pocketbase-csharp-sdk) - PocketBase Client in C# (archived). ![GitHub Repo stars](https://img.shields.io/github/stars/PRCV1/pocketbase-csharp-sdk)
 - [Rust](https://github.com/sreedevk/pocketbase-sdk-rust) - PocketBase Client in Rust. ![GitHub Repo stars](https://img.shields.io/github/stars/sreedevk/pocketbase-sdk-rust)
 - [Unity (Multiplatform)](https://github.com/Sov3rain/pocketbase-unity) - PocketBase client for Unity 3D game engine. ![GitHub Repo stars](https://img.shields.io/github/stars/Sov3rain/pocketbase-unity)
 - [Ruby](https://github.com/azmi2409/pocketbase-ruby) - PocketBase Client in Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/azmi2409/pocketbase-ruby)
