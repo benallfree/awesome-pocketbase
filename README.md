@@ -134,7 +134,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 ## SQLite tools
 
 - [Litestream](https://litestream.io/) - Streaming SQLite replication. ![GitHub Repo stars](https://img.shields.io/github/stars/benbjohnson/litestream)
-- [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator [with PocketBase tutorial](https://www.youtube.com/watch?v=Zapupe_FREc). ![GitHub Repo stars](https://img.shields.io/github/stars/maxpert/marmot)
+- [Marmot](https://github.com/maxpert/marmot) - A distributed SQLite replicator. ![GitHub Repo stars](https://img.shields.io/github/stars/maxpert/marmot)
 - [pocketbase-import](https://github.com/michal-kapala/pocketbase-import) - Import CSV and JSON data into PocketBase collections. ![GitHub Repo stars](https://img.shields.io/github/stars/michal-kapala/pocketbase-import)
 
 ## Other tools
