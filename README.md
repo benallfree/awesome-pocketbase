@@ -31,10 +31,12 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Official Packages
 
-- [Golang Server](https://github.com/pocketbase/pocketbase/releases/) - The main PocketBase server. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/pocketbase)
+PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://ganigeorgiev.com/pocketbase); the GitHub repositories are archived. Star counts below are from the archived GitHub repositories.
 
-- [JavaScript SDK](https://github.com/pocketbase/js-sdk) - Browser and Node.js for interacting with the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/js-sdk)
-- [Dart SDK](https://github.com/pocketbase/dart-sdk) - Multi-platform SDK for interacting with the PocketBase Web API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/dart-sdk)
+- [Golang Server](https://ganigeorgiev.com/pocketbase/pocketbase/releases) - The main PocketBase server. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/pocketbase)
+
+- [JavaScript SDK](https://ganigeorgiev.com/pocketbase/js-sdk) - Browser and Node.js for interacting with the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/js-sdk)
+- [Dart SDK](https://ganigeorgiev.com/pocketbase/dart-sdk) - Multi-platform SDK for interacting with the PocketBase Web API. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase/dart-sdk)
 
 ## Forks
 
@@ -45,21 +47,25 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [pockethost.io](https://pockethost.io) - Pro PocketBase hosting. ![GitHub Repo stars](https://img.shields.io/github/stars/pockethost/pockethost)
 - [PocketBase Typegen](https://github.com/patmood/pocketbase-typegen) - Generate TypeScript types from the SQLite db file. ![GitHub Repo stars](https://img.shields.io/github/stars/patmood/pocketbase-typegen)
 - [PocketBase Docker](https://github.com/muchobien/pocketbase-docker) - Docker setup supporting multiple architectures and automatically updated with PocketBase releases. ![GitHub Repo stars](https://img.shields.io/github/stars/muchobien/pocketbase-docker)
-- [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for Stripe subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe)
-- [PocketBase+Lemonsqueezy](https://github.com/mrwyndham/pocketbase-lemonsqueezy) - Go extended PocketBase for Lemonsqueezy subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-lemonsqueezy)
+- [Python SDK](https://github.com/vaphes/pocketbase) - PocketBase client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/vaphes/pocketbase)
 - [SvelteKit Starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - A starter-kit showing how to use customized PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
-- [SvelteKit Auth](https://github.com/danawoodman/sveltekit-auth-example) - This project is designed as a sample implementation reference for getting authentication setup using SvelteKit. ![GitHub Repo stars](https://img.shields.io/github/stars/danawoodman/sveltekit-auth-example)
 - [SvelteKit PocketBase Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Demo login and registration pages with examples. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-sveltekit-auth)
+- [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for Stripe subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe)
+- [PocketBaseUML](https://pocketbase-uml.github.io/) - Generate UML diagrams from PocketBase databases. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase-uml/pocketbase-uml.github.io)
+- [SvelteKit Auth](https://github.com/danawoodman/sveltekit-auth-example) - This project is designed as a sample implementation reference for getting authentication setup using SvelteKit. ![GitHub Repo stars](https://img.shields.io/github/stars/danawoodman/sveltekit-auth-example)
+- [pb-ext](https://github.com/magooney-loon/pb-ext) - Enhanced PocketBase server with monitoring, logging & API docs. ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-ext)
+- [typed-pocketbase](https://github.com/david-plugge/typed-pocketbase) - Generate types from your PocketBase instance and enjoy fully type-safe queries. ![GitHub Repo stars](https://img.shields.io/github/stars/david-plugge/typed-pocketbase)
+- [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nuxt3 PocketBase starter that builds into a single binary. ![GitHub Repo stars](https://img.shields.io/github/stars/j-wil/pocket-nuxt)
 
 ## Major Community Projects
 
-- [pocketpages.dev](https://pocketpages.dev) - Server-side JS pages and hosting for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
+- [PocketPages](https://pocketone.dev/docs/extensions/pages) - Server-side JS pages for PocketBase. v1 is built into PocketOne; the npm-based 0.x is archived. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
 - [PocketCon 2027](https://pocketcon.dev) - A free online PocketBase conference on Saturday, February 6, 2027.
 
 ## JSVM Plugins
 
 - [pocketbase-otp](https://github.com/benallfree/pocketbase-otp) - One-Time Passwords for <=v0.22.\* ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-otp)
-- [pocketpages](https://github.com/benallfree/pocketpages) - Server-side EJS pages for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
+- [pocketpages](https://github.com/benallfree/pocketpages) - Server-side EJS pages for PocketBase (0.x, archived; v1 is built into PocketOne). ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketpages)
 - [pocketbase-presigned-urls](https://github.com/benallfree/pocketbase-presigned-urls) - Serve file uploads from presigned S3 URLs. ![GitHub Repo stars](https://img.shields.io/github/stars/benallfree/pocketbase-presigned-urls)
 
 ## Go Plugins
@@ -82,7 +88,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Svelte
 
-- [svelte-query-pocketbase](https://github.com/goknsh/svelte-query-pocketbase) - TanStack Query wrappers around PocketBase for Svelte and SvelteKit that updates the query cache in realtime. ![GitHub Repo stars](https://img.shields.io/github/stars/goknsh/svelte-query-pocketbase)
+- [svelte-query-pocketbase](https://github.com/goknsh/svelte-query-pocketbase) - TanStack Query wrappers around PocketBase for Svelte and SvelteKit that updates the query cache in realtime (archived). ![GitHub Repo stars](https://img.shields.io/github/stars/goknsh/svelte-query-pocketbase)
 - [pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - A starter-kit showing how to use customized (Go/JS) PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
 - [pocketbase-sveltekit-static](https://github.com/Egor-S/pocketbase-sveltekit-static) - A minimalist template with configured authorization featuring a single Docker image (from 55 MB) for deploying. ![GitHub Repo stars](https://img.shields.io/github/stars/Egor-S/pocketbase-sveltekit-static)
 
@@ -105,7 +111,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## C#
 
-- [ORM and code generator](https://github.com/iluvadev/PocketBaseClient-csharp) - An ORM to manage your PocketBase Application. ![GitHub Repo stars](https://img.shields.io/github/stars/iluvadev/PocketBaseClient-csharp)
+- [ORM and code generator](https://github.com/iluvadev/PocketBaseClient) - An ORM to manage your PocketBase Application. ![GitHub Repo stars](https://img.shields.io/github/stars/iluvadev/PocketBaseClient)
 - [PocketBaseSharp](https://github.com/PSCourtney/PocketBaseSharp) - C# SDK for PocketBase and demo Blazor WebAssembly webapp. ![GitHub Repo stars](https://img.shields.io/github/stars/PSCourtney/PocketBaseSharp)
 
 ## D
@@ -123,7 +129,7 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [Kotlin (Multiplatform)](https://github.com/IdanAizikNissim/pocketbase-kt) - PocketBase Client in Kotlin. ![GitHub Repo stars](https://img.shields.io/github/stars/IdanAizikNissim/pocketbase-kt)
 - [Python (Sync)](https://github.com/vaphes/pocketbase) - PocketBase Client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/vaphes/pocketbase)
 - [Python (Async)](https://github.com/thijsmie/pocketbase) - PocketBase Client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/thijsmie/pocketbase)
-- [C#](https://github.com/PRCV1/pocketbase-csharp-sdk) - PocketBase Client in C#. ![GitHub Repo stars](https://img.shields.io/github/stars/PRCV1/pocketbase-csharp-sdk)
+- [C#](https://github.com/PRCV1/pocketbase-csharp-sdk) - PocketBase Client in C# (archived). ![GitHub Repo stars](https://img.shields.io/github/stars/PRCV1/pocketbase-csharp-sdk)
 - [Rust](https://github.com/sreedevk/pocketbase-sdk-rust) - PocketBase Client in Rust. ![GitHub Repo stars](https://img.shields.io/github/stars/sreedevk/pocketbase-sdk-rust)
 - [Unity (Multiplatform)](https://github.com/Sov3rain/pocketbase-unity) - PocketBase client for Unity 3D game engine. ![GitHub Repo stars](https://img.shields.io/github/stars/Sov3rain/pocketbase-unity)
 - [Ruby](https://github.com/azmi2409/pocketbase-ruby) - PocketBase Client in Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/azmi2409/pocketbase-ruby)
@@ -161,12 +167,11 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 
 ## Other tools
 
-- [PocketBaseUML](https://pocketbase-uml.github.io/) - A free, open-source web application that generates UML diagrams based on PocketBase databases. ![GitHub Repo stars](https://img.shields.io/github/stars/bscott/pocketbase-litestream)
+- [PocketBaseUML](https://pocketbase-uml.github.io/) - A free, open-source web application that generates UML diagrams based on PocketBase databases. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase-uml/pocketbase-uml.github.io)
 - [PocketBaseMobile](https://github.com/rohitsangwan01/pocketbase_mobile) - Android and iOS frameworks for running PocketBase from mobile. ![GitHub Repo stars](https://img.shields.io/github/stars/rohitsangwan01/pocketbase_mobile)
 - [pbf](https://github.com/nedpals/pbf) - Library for serializing and deserializing PocketBase filter syntax. ![GitHub Repo stars](https://img.shields.io/github/stars/nedpals/pbf)
-- [PocketBase Templates](https://github.com/Pocket-Space/pocketbase-templates) - A open-source collection of PocketBase schemas to quickly get started. ![GitHub Repo stars](https://img.shields.io/github/stars/Pocket-Space/pocketbase-templates)
 - [pocketbase-queue](https://github.com/joseferben/pocketbase-queue) - A type-safe queue for background tasks using PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/joseferben/pocketbase-queue)
-- [PocketBase GPT](https://chat.openai.com/g/g-Owo2FBp4K-pocketbase-gpt) - A GPT that has all of PocketBase's documentation uploaded to it, to give more accurate and up-to-date answers.
+- [PocketBase GPT](https://chatgpt.com/g/g-Owo2FBp4K-pocketbase-gpt) - A GPT that has all of PocketBase's documentation uploaded to it, to give more accurate and up-to-date answers.
 - [PocketBase API Rule Builder](https://pocketbase-api-rule-builder.vercel.app) - A free, open-source web application that makes it easy to generate API rules for PocketBase collections visually. ![GitHub Repo stars](https://img.shields.io/github/stars/kerimovok/pocketbase-api-rule-builder)
 - [pb-llm](https://github.com/magooney-loon/pb-llm) - Pocketbase LLM docs scraper ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-llm)
 - [pocketbase-security-skill](https://github.com/Perufitlife/pocketbase-security-skill) - Open-source MIT auditor that probes anonymously to confirm permissive default-rule wildcards, anonymous record listing exposure, and admin-API misconfigurations. Outputs an HTML report with copy-paste fix snippets. ![GitHub Repo stars](https://img.shields.io/github/stars/Perufitlife/pocketbase-security-skill)
@@ -179,7 +184,6 @@ PocketBase is an open source backend consisting of embedded database (SQLite) wi
 - [oAuth](https://github.com/rajesh6161/pocketbase-oauth-demo) - A React-based oAuth demo. ![GitHub Repo stars](https://img.shields.io/github/stars/rajesh6161/pocketbase-oauth-demo)
 - [Flutter Chat App](https://github.com/rohitsangwan01/flutter_pocketbase_chat) - A chat app using PocketBase in Flutter. ![GitHub Repo stars](https://img.shields.io/github/stars/rohitsangwan01/flutter_pocketbase_chat)
 - [JustJot](https://justjot.app) - A keyboard-first note-taking full-featured Progressive Web App. [frontend repo](https://github.com/JunoNgx/justjot-frontend) / [backend repo](https://github.com/JunoNgx/justjot-backend) ![GitHub Repo stars](https://img.shields.io/github/stars/JunoNgx/justjot-backend)
-- [Cookie auth demo](https://github.com/davidbarton/pocketbase-cookie-auth-demo) - A demo of cookie based authentication flow for PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/davidbarton/pocketbase-cookie-auth-demo)
 - [Adnexos](https://github.com/tametsi/adnexos) - Self-hostable expense-splitter on the web. ![GitHub Repo stars](https://img.shields.io/github/stars/tametsi/adnexos)
 - [pocketbase-libsql](https://github.com/cobeo2004/pocketbase-libsql) - Scaling Pocketbase with LibSQL and sqld - a Proof Of Concept ![GitHub Repo stars](https://img.shields.io/github/stars/cobeo2004/pocketbase-libsql)
 - [PocketChat](https://github.com/PocketTogether/pocket-chat) - A real-time chat platform built with PocketBase and Vue3, supporting OAuth, notifications, PWA, file/image sharing, permissions, and more. ![GitHub Repo stars](https://img.shields.io/github/stars/PocketTogether/pocket-chat)
