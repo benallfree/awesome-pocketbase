@@ -66,7 +66,6 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Go Plugins
 
-- [pb-ext](https://github.com/magooney-loon/pb-ext) - Enhanced PocketBase server with monitoring, logging & API docs. ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-ext)
 - [pocketbase-ha](https://github.com/litesql/pocketbase-ha) - Highly available leader or leaderless PocketBase cluster built on the go-ha database/sql driver. ![GitHub Repo stars](https://img.shields.io/github/stars/litesql/pocketbase-ha)
 - [Telegram auth](https://github.com/iamelevich/pocketbase-plugin-telegram-auth) - Add Telegram auth (Widget button and WebApp). ![GitHub Repo stars](https://img.shields.io/github/stars/iamelevich/pocketbase-plugin-telegram-auth)
 - [pocketbase-gogen](https://github.com/Snonky/pocketbase-gogen) - Generate data model structs from a PocketBase schema. ![GitHub Repo stars](https://img.shields.io/github/stars/Snonky/pocketbase-gogen)
@@ -77,7 +76,6 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## React
 
-- [refine-pocketbase](https://github.com/kruschid/refine-pocketbase) - Data, auth and live providers for building refine apps on PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/kruschid/refine-pocketbase)
 - [PocketBase React](https://github.com/tobicrain/pocketbase-react) - Unofficial React SDK (React, React Native, Expo) for interacting with the PocketBase JavaScript SDK. ![GitHub Repo stars](https://img.shields.io/github/stars/tobicrain/pocketbase-react)
 - [pbtsdb](https://github.com/nathanstitt/pbtsdb) - A type-safe TanStack DB adapter to easily create LiveQueries with real-time subscriptions. ![GitHub Repo stars](https://img.shields.io/github/stars/nathanstitt/pbtsdb)
 - [Next.js PocketBase Auth](https://github.com/jianyuan/pocketbase-nextjs-auth) - Sample Next.js 15 application with PocketBase integration, a typed client, server-side and client-side rendering techniques, and server actions. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-nextjs-auth)
@@ -85,7 +83,6 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Svelte
 
-- [pocketbase-sveltekit-starter](https://github.com/spinspire/pocketbase-sveltekit-starter) - A starter-kit showing how to use customized (Go/JS) PocketBase as a backend to SvelteKit frontend. ![GitHub Repo stars](https://img.shields.io/github/stars/spinspire/pocketbase-sveltekit-starter)
 - [pocketbase-sveltekit-static](https://github.com/Egor-S/pocketbase-sveltekit-static) - A minimalist template with configured authorization featuring a single Docker image (from 55 MB) for deploying. ![GitHub Repo stars](https://img.shields.io/github/stars/Egor-S/pocketbase-sveltekit-static)
 
 ## Dart/Flutter
@@ -98,7 +95,6 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Unofficial PocketBase Clients (SDKs)
 
-- [Python (Sync)](https://github.com/vaphes/pocketbase) - PocketBase Client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/vaphes/pocketbase)
 - [Go](https://github.com/pluja/pocketbase) - PocketBase Client in Golang. ![GitHub Repo stars](https://img.shields.io/github/stars/pluja/pocketbase)
 - [Python (Async)](https://github.com/thijsmie/pocketbase) - PocketBase Client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/thijsmie/pocketbase)
 - [Swift](https://github.com/briannadoubt/PocketBase) - PocketBase client for iOS, macOS, watchOS, tvOS and visionOS. ![GitHub Repo stars](https://img.shields.io/github/stars/briannadoubt/PocketBase)
@@ -139,9 +135,6 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 
 ## Other tools
 
-- [PocketBaseUML](https://pocketbase-uml.github.io/) - A free, open-source web application that generates UML diagrams based on PocketBase databases. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase-uml/pocketbase-uml.github.io)
-- [pocketbase-mcp](https://github.com/mrwyndham/pocketbase-mcp) - MCP server for building PocketBase apps with AI assistants. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-mcp)
-- [PocketBlocks](https://github.com/pedrozadotdev/pocketblocks) - Openblocks low-code app builder integrated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pedrozadotdev/pocketblocks)
 - [pb-hooks-dash](https://github.com/deselected/pb-hooks-dash) - Drop-in web dashboard to view and edit PocketBase hooks in the browser. ![GitHub Repo stars](https://img.shields.io/github/stars/deselected/pb-hooks-dash)
 - [PocketBaseMobile](https://github.com/rohitsangwan01/pocketbase_mobile) - Android and iOS frameworks for running PocketBase from mobile. ![GitHub Repo stars](https://img.shields.io/github/stars/rohitsangwan01/pocketbase_mobile)
 - [pbf](https://github.com/nedpals/pbf) - Library for serializing and deserializing PocketBase filter syntax. ![GitHub Repo stars](https://img.shields.io/github/stars/nedpals/pbf)
