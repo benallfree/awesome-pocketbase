@@ -41,6 +41,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 ## Forks
 
 - [PocketOne](https://pocketone.dev) - An open, community-driven fork of PocketBase. Features live in Go extensions that connect only through versioned contracts, so anyone can contribute (PITR, bulk mail, WASM, an updated JSVM, and more) without touching core. Not affiliated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketonehq/pocketone)
+- [PostgreBase](https://github.com/zhenruyan/postgrebase) - A PocketBase fork with PostgreSQL and MySQL support alongside SQLite, a built-in MCP server and Redis or in-memory caching, keeping the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/zhenruyan/postgrebase)
 
 ## Top PocketBase-specific Projects (>100 stars)
 
@@ -52,10 +53,13 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [SvelteKit PocketBase Auth](https://github.com/jianyuan/pocketbase-sveltekit-auth) - Demo login and registration pages with examples. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-sveltekit-auth)
 - [PocketBase+Stripe](https://github.com/mrwyndham/pocketbase-stripe) - Go extended PocketBase for Stripe subscription integration. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-stripe)
 - [PocketBaseUML](https://pocketbase-uml.github.io/) - Generate UML diagrams from PocketBase databases. ![GitHub Repo stars](https://img.shields.io/github/stars/pocketbase-uml/pocketbase-uml.github.io)
+- [pocketbase-mcp](https://github.com/mrwyndham/pocketbase-mcp) - MCP server for building PocketBase apps with AI assistants. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-mcp)
 - [SvelteKit Auth](https://github.com/danawoodman/sveltekit-auth-example) - This project is designed as a sample implementation reference for getting authentication setup using SvelteKit. ![GitHub Repo stars](https://img.shields.io/github/stars/danawoodman/sveltekit-auth-example)
 - [pb-ext](https://github.com/magooney-loon/pb-ext) - Enhanced PocketBase server with monitoring, logging & API docs. ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-ext)
 - [typed-pocketbase](https://github.com/david-plugge/typed-pocketbase) - Generate types from your PocketBase instance and enjoy fully type-safe queries. ![GitHub Repo stars](https://img.shields.io/github/stars/david-plugge/typed-pocketbase)
 - [PocketNuxt](https://github.com/j-wil/pocket-nuxt) - A Nuxt3 PocketBase starter that builds into a single binary. ![GitHub Repo stars](https://img.shields.io/github/stars/j-wil/pocket-nuxt)
+- [refine-pocketbase](https://github.com/kruschid/refine-pocketbase) - Data, auth and live providers for building refine apps on PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/kruschid/refine-pocketbase)
+- [PocketBlocks](https://github.com/pedrozadotdev/pocketblocks) - Openblocks low-code app builder integrated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pedrozadotdev/pocketblocks)
 
 ## Major Community Projects
 
@@ -76,6 +80,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [TypeScript Generator](https://github.com/Vogeslu/pocketbase-ts-generator) - Standalone tool or library that generates TypeScript types, with auto-generation hook or command. ![GitHub Repo stars](https://img.shields.io/github/stars/Vogeslu/pocketbase-ts-generator)
 - [pocketbase-gogen](https://github.com/Snonky/pocketbase-gogen) - Generate data model structs from a PocketBase schema. ![GitHub Repo stars](https://img.shields.io/github/stars/Snonky/pocketbase-gogen)
 - [pb-ext](https://github.com/magooney-loon/pb-ext) - Enhanced PocketBase server with monitoring, logging & API docs. ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-ext)
+- [pocketbase-ha](https://github.com/litesql/pocketbase-ha) - Highly available leader or leaderless PocketBase cluster built on the go-ha database/sql driver. ![GitHub Repo stars](https://img.shields.io/github/stars/litesql/pocketbase-ha)
 
 ## React
 
@@ -84,6 +89,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [Next.js PocketBase Auth](https://github.com/jianyuan/pocketbase-nextjs-auth) - Sample Next.js 15 application with PocketBase integration, a typed client, server-side and client-side rendering techniques, and server actions. ![GitHub Repo stars](https://img.shields.io/github/stars/jianyuan/pocketbase-nextjs-auth)
 - [next-pocketbase-auth](https://github.com/g12i/next-pocketbase-auth) - A lightweight authentication wrapper for Next.js applications, providing easy-to-use utilities for handling user session in both client and server components. ![GitHub Repo stars](https://img.shields.io/github/stars/g12i/next-pocketbase-auth)
 - [pbtsdb](https://github.com/nathanstitt/pbtsdb) - A type-safe TanStack DB adapter to easily create LiveQueries with real-time subscriptions. ![GitHub Repo stars](https://img.shields.io/github/stars/nathanstitt/pbtsdb)
+- [refine-pocketbase](https://github.com/kruschid/refine-pocketbase) - Data, auth and live providers for building refine apps on PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/kruschid/refine-pocketbase)
 
 ## Svelte
 
@@ -130,6 +136,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [Rust](https://github.com/sreedevk/pocketbase-sdk-rust) - PocketBase Client in Rust. ![GitHub Repo stars](https://img.shields.io/github/stars/sreedevk/pocketbase-sdk-rust)
 - [Unity (Multiplatform)](https://github.com/Sov3rain/pocketbase-unity) - PocketBase client for Unity 3D game engine. ![GitHub Repo stars](https://img.shields.io/github/stars/Sov3rain/pocketbase-unity)
 - [Ruby](https://github.com/azmi2409/pocketbase-ruby) - PocketBase Client in Ruby. ![GitHub Repo stars](https://img.shields.io/github/stars/azmi2409/pocketbase-ruby)
+- [Swift](https://github.com/briannadoubt/PocketBase) - PocketBase client for iOS, macOS, watchOS, tvOS and visionOS. ![GitHub Repo stars](https://img.shields.io/github/stars/briannadoubt/PocketBase)
 
 ## Self Hosting
 
@@ -142,6 +149,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [PocketBase on Dokku](https://github.com/blockshiftnetwork/dokku-pocketbase) - Deploy PocketBase instances on Dokku effortlessly. ![GitHub Repo stars](https://img.shields.io/github/stars/blockshiftnetwork/dokku-pocketbase)
 - [PBLauncher](https://github.com/user0608/pb_launcher) - Manage PocketBase instances — fast, lightweight, open source. ![GitHub Repo stars](https://img.shields.io/github/stars/user0608/pb_launcher)
 - [pb-deployer](https://github.com/magooney-loon/pb-deployer) - Automates the lifecycle of deploying PocketBase apps to production ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-deployer)
+- [Coolify PocketBase images](https://github.com/coollabsio/pocketbase) - Unofficial Docker images for ARM and AMD. ![GitHub Repo stars](https://img.shields.io/github/stars/coollabsio/pocketbase)
 
 ## TypeScript tools
 
@@ -153,6 +161,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [pocketbase-schema-generator](https://github.com/satohshi/pocketbase-schema-generator) - JS hook for automatically generating schema files. (Zod/TS interfaces) ![GitHub Repo stars](https://img.shields.io/github/stars/satohshi/pocketbase-schema-generator)
 - [pb-query](https://github.com/sergio9929/pb-query) - A flexible, strongly-typed query builder with useful helpers to simplify the querying process, featuring examples, documentation, and full autocompletion based on your schema, directly in the IDE. ![GitHub Repo stars](https://img.shields.io/github/stars/sergio9929/pb-query)
 - [pbkit](https://github.com/Karnak19/pbkit) - PocketBase code generation toolkit. Introspect your collections and generate fully typed TypeScript SDKs, with plugins for TanStack Query, Zod, and realtime. ![GitHub Repo stars](https://img.shields.io/github/stars/Karnak19/pbkit)
+- [astro-loader-pocketbase](https://github.com/pawcoding/astro-loader-pocketbase) - Astro content loader that reads collections from the PocketBase API. ![GitHub Repo stars](https://img.shields.io/github/stars/pawcoding/astro-loader-pocketbase)
 
 ## SQLite tools
 
@@ -161,6 +170,7 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [PocketBase+Litestream example](https://github.com/TylerSustare/pocketbase-framework-litestream) - Template showing Litestream running with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/TylerSustare/pocketbase-framework-litestream)
 - [PocketBase with Litestream](https://github.com/bscott/pocketbase-litestream/) - Docker example of PocketBase saving/restoring from Litestream. ![GitHub Repo stars](https://img.shields.io/github/stars/bscott/pocketbase-litestream)
 - [pb-import](https://github.com/burggraf/pb-import) - Import data from SQLite Databases as well as CSV and TSV files. ![GitHub Repo stars](https://img.shields.io/github/stars/burggraf/pb-import)
+- [pocketbase-import](https://github.com/michal-kapala/pocketbase-import) - Import CSV and JSON data into PocketBase collections. ![GitHub Repo stars](https://img.shields.io/github/stars/michal-kapala/pocketbase-import)
 
 ## Other tools
 
@@ -172,6 +182,9 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [PocketBase API Rule Builder](https://pocketbase-api-rule-builder.vercel.app) - A free, open-source web application that makes it easy to generate API rules for PocketBase collections visually. ![GitHub Repo stars](https://img.shields.io/github/stars/kerimovok/pocketbase-api-rule-builder)
 - [pb-llm](https://github.com/magooney-loon/pb-llm) - Pocketbase LLM docs scraper ![GitHub Repo stars](https://img.shields.io/github/stars/magooney-loon/pb-llm)
 - [pocketbase-security-skill](https://github.com/Perufitlife/pocketbase-security-skill) - Open-source MIT auditor that probes anonymously to confirm permissive default-rule wildcards, anonymous record listing exposure, and admin-API misconfigurations. Outputs an HTML report with copy-paste fix snippets. ![GitHub Repo stars](https://img.shields.io/github/stars/Perufitlife/pocketbase-security-skill)
+- [pocketbase-mcp](https://github.com/mrwyndham/pocketbase-mcp) - MCP server for building PocketBase apps with AI assistants. ![GitHub Repo stars](https://img.shields.io/github/stars/mrwyndham/pocketbase-mcp)
+- [PocketBlocks](https://github.com/pedrozadotdev/pocketblocks) - Openblocks low-code app builder integrated with PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/pedrozadotdev/pocketblocks)
+- [pb-hooks-dash](https://github.com/deselected/pb-hooks-dash) - Drop-in web dashboard to view and edit PocketBase hooks in the browser. ![GitHub Repo stars](https://img.shields.io/github/stars/deselected/pb-hooks-dash)
 
 ## Showcases
 
@@ -188,3 +201,14 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 - [Facet](https://github.com/jesposito/Facet) - Self-hostable personal profile and portfolio platform built on PocketBase and Svelte, and the open-source core of the [Facet Cloud](https://get-facet.com) creator platform. ![GitHub Repo stars](https://img.shields.io/github/stars/jesposito/Facet)
 - [Chirkle](https://github.com/border-radius/chirkle) - Ultra-light, self-hosted messenger on a PocketBase server, with federation between instances and lightweight web and Android clients. ![GitHub Repo stars](https://img.shields.io/github/stars/border-radius/chirkle)
 - [STJÓRNA](https://github.com/secanis/stjorna) - Multi-tenant product and catalogue management built on PocketBase, with roles, SSO, an S3-backed media library and a read-only REST API for storefronts. ![GitHub Repo stars](https://img.shields.io/github/stars/secanis/stjorna)
+- [Beszel](https://beszel.dev) - Lightweight server monitoring with historical data, Docker stats and alerts; its hub is built on PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/henrygd/beszel)
+- [UpSnap](https://github.com/seriousm4x/UpSnap) - A simple Wake-on-LAN web app written with SvelteKit, Go and PocketBase. ![GitHub Repo stars](https://img.shields.io/github/stars/seriousm4x/UpSnap)
+- [wanderer](https://wanderer.to) - Self-hosted trail database for saving and planning hikes. ![GitHub Repo stars](https://img.shields.io/github/stars/open-wanderer/wanderer)
+- [CheckCle](https://github.com/operacle/checkcle) - Self-hosted monitoring platform with uptime checks, distributed checks, incident tracking and alerts. ![GitHub Repo stars](https://img.shields.io/github/stars/operacle/checkcle)
+- [Primo](https://primo.build) - Builder for client-editable websites, with a PocketBase backend. ![GitHub Repo stars](https://img.shields.io/github/stars/primocms/primo)
+- [tinykit](https://tinykit.studio) - Self-hosted AI app builder with a PocketBase realtime database and storage. ![GitHub Repo stars](https://img.shields.io/github/stars/tinykit-studio/tinykit)
+- [Dashwise](https://github.com/andreasmolnardev/dashwise) - All-in-one homelab dashboard. ![GitHub Repo stars](https://img.shields.io/github/stars/andreasmolnardev/dashwise)
+- [Cially](https://github.com/cially/cially) - Analytics dashboard for Discord servers: member activity, engagement trends and statistics. ![GitHub Repo stars](https://img.shields.io/github/stars/cially/cially)
+- [OpenSOHO](https://github.com/rubenbe/opensoho) - OpenWISP alternative for managing a small number of OpenWrt network devices. ![GitHub Repo stars](https://img.shields.io/github/stars/rubenbe/opensoho)
+- [Long Habit](https://longhabit.com) - Tracker for long-term habits and recurring tasks, built with PocketBase and React. ![GitHub Repo stars](https://img.shields.io/github/stars/s-petr/longhabit)
+- [Canutin](https://canutin.com) - Self-hosted personal finance platform. ![GitHub Repo stars](https://img.shields.io/github/stars/fmaclen/canutin)
