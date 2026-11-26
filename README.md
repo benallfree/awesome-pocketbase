@@ -96,8 +96,8 @@ PocketBase moved its repositories from GitHub to [ganigeorgiev.com](https://gani
 ## Unofficial PocketBase Clients (SDKs)
 
 - [Go](https://github.com/pluja/pocketbase) - PocketBase Client in Golang. ![GitHub Repo stars](https://img.shields.io/github/stars/pluja/pocketbase)
-- [Python (Async)](https://github.com/thijsmie/pocketbase) - PocketBase Client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/thijsmie/pocketbase)
 - [Swift](https://github.com/briannadoubt/PocketBase) - PocketBase client for iOS, macOS, watchOS, tvOS and visionOS. ![GitHub Repo stars](https://img.shields.io/github/stars/briannadoubt/PocketBase)
+- [Python (Async)](https://github.com/thijsmie/pocketbase) - PocketBase Client in Python. ![GitHub Repo stars](https://img.shields.io/github/stars/thijsmie/pocketbase)
 - [Rust](https://github.com/sreedevk/pocketbase-sdk-rust) - PocketBase Client in Rust. ![GitHub Repo stars](https://img.shields.io/github/stars/sreedevk/pocketbase-sdk-rust)
 - [Kotlin](https://github.com/agrevster/pocketbase-kotlin) - PocketBase Client in Kotlin. ![GitHub Repo stars](https://img.shields.io/github/stars/agrevster/pocketbase-kotlin)
 - [Unity (Multiplatform)](https://github.com/Sov3rain/pocketbase-unity) - PocketBase client for Unity 3D game engine. ![GitHub Repo stars](https://img.shields.io/github/stars/Sov3rain/pocketbase-unity)
